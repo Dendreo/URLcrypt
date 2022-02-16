@@ -1,0 +1,6 @@
+pkg/
+coverage
+.DS_Store
+vendor/
+bin/
+composer.lock
