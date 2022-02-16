@@ -29,7 +29,7 @@ URLCrypt requires PHP >= 8.0 as well as the openssl PHP extension.
 
 ## Installation
 
-You can install URLCrypt via Composer with `composer require atrapalo/urlcrypt` or by adding the following to your `composer.json` file:
+You can install URLCrypt via Composer with `composer require dendreo/urlcrypt` or by adding the following to your `composer.json` file:
 
 ```json
 {
