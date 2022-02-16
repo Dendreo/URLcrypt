@@ -1,5 +1,5 @@
 {
-    "name": "dendreo/urlcrypt",
+    "name": "atrapalo/urlcrypt",
     "description": "PHP library to securely encode and decode short pieces of arbitrary binary data in URLs.",
     "type": "library",
     "license": "MIT",
